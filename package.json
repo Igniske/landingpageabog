@@ -5,7 +5,8 @@
   "type": "module",
   "homepage": "https://github.com/Igniske/landingpageabog",
 "scripts": {
-  "deploy": "vite build && gh-pages -d dist"
+  "deploy": "vite build && gh-pages -d dist",
+  "build": "vite build"
 },
   
   "devDependencies": {
